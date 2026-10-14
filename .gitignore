@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+dist/
+.env
+*.log
+# Planilha de entrada local
+backend/Book_2_corrigida.xlsx
