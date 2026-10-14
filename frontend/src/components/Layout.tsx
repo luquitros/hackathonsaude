@@ -33,7 +33,7 @@ export const Layout = ({ children }: { children: ReactNode }) => {
       <footer className="border-t border-slate-200 bg-white">
         <div className="mx-auto flex max-w-[1440px] flex-wrap items-center justify-between gap-3 px-5 py-5 text-xs text-slate-500 sm:px-8">
           <p>Vigia Saúde · Apoio à análise territorial</p>
-          <p>Protótipo para hackathon · Dados mantidos em memória no servidor</p>
+          <p>Dados mantidos em memória no servidor</p>
         </div>
       </footer>
     </div>
